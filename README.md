@@ -12,13 +12,16 @@
 <a href = "https://creeper0809.notion.site/bdfe0ecfa83f452bb9c5401f0f931a92?v=7d14171d4933409b9d633ed00fce90b2">
 ![notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)
 </a><br>
-작업물 1, 플래포머 게임 개발
+작업물 1, 플래포머 게임 개발<br>
 <a href = "https://youtu.be/T_MXIU2IhgE">
 ![youtube](https://img.shields.io/badge/youtube-FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)
 </a><br>
 <a href = "https://creeper0809.notion.site/Underlier-4aec2f716cff41a7b8f6509c1e35672d">
 ![notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)
 </a><br>
-작업물 2, 
+작업물 2, 디스코드 봇 개발<br>
+<a href = "https://creeper0809.notion.site/PSN-a75b4e2f6bd84851ae3b2c78e381b73a">
+![notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)
+</a><br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=creeper0809)](https://solved.ac/creeper0809/)<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Creeper0809&layout=compact"><br><br>
