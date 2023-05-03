@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=creeper0809)](https://solved.ac/creeper0809/)
 <!--
 **Creeper0809/Creeper0809** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
