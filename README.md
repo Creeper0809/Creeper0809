@@ -7,7 +7,7 @@
 ![spring](https://img.shields.io/badge/spring-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)
 ## 포토폴리오
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=creeper0809)](https://solved.ac/creeper0809/)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=본인아이디&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Creeper0809&layout=compact"><br><br>
 <!--
 **Creeper0809/Creeper0809** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
