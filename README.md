@@ -38,14 +38,14 @@
 	<a href = "https://www.youtube.com/watch?v=ZWOrBwm8rQQ">
 		<img src = "https://img.shields.io/badge/youtube-FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"/>
 	</a><br>
-	작업물 2, 플래포머 게임 개발<br>
+	<p>작업물 2, 플래포머 게임 개발</p>
 	<a href = "https://youtu.be/T_MXIU2IhgE">
 		<img src = "https://img.shields.io/badge/youtube-FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"/>
 	</a><br>
 	<a href = "https://creeper0809.notion.site/Underlier-4aec2f716cff41a7b8f6509c1e35672d">
 		<img src = "https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white"/>
 	</a><br>
-	작업물 3, 디스코드 봇 개발<br>
+	<p>작업물 3, 디스코드 봇 개발</p>
 	<a href = "https://creeper0809.notion.site/PSN-a75b4e2f6bd84851ae3b2c78e381b73a">
 		<img src = "https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white"/>
 	</a><br>
