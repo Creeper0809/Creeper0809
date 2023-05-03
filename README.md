@@ -8,9 +8,17 @@
 ![css3](https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![javascript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
 ## 포토폴리오
-공부 내역
+공부 내역<br>
 <a href = "https://creeper0809.notion.site/bdfe0ecfa83f452bb9c5401f0f931a92?v=7d14171d4933409b9d633ed00fce90b2">
 ![notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)
 </a><br>
+작업물 1, 플래포머 게임 개발
+<a href = "https://youtu.be/T_MXIU2IhgE">
+![youtube](https://img.shields.io/badge/youtube-FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)
+</a><br>
+<a href = "https://creeper0809.notion.site/Underlier-4aec2f716cff41a7b8f6509c1e35672d">
+![notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)
+</a><br>
+작업물 2, 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=creeper0809)](https://solved.ac/creeper0809/)<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Creeper0809&layout=compact"><br><br>
