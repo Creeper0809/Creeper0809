@@ -27,7 +27,7 @@
 </div>
 <br>
 <div align=center>
-	<p>Portfolio</p>
+	<h3>Portfolio</h3>
 	</div>
 <div align=center>
 	공부 내역<br>
@@ -52,7 +52,7 @@
 </div>
 <div align=center>
 <br>
-	<p>🏆 Baekjoon solved rank 🏆</p>
+	<h3>🏆 Baekjoon solved rank 🏆</h3>
 	
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=creeper0809)](https://solved.ac/creeper0809)
 	<p>프로젝트 사용언어</p>
