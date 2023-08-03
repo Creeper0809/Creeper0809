@@ -49,6 +49,8 @@
 	<a href = "https://creeper0809.notion.site/PSN-a75b4e2f6bd84851ae3b2c78e381b73a">
 		<img src = "https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white"/>
 	</a><br>
+	<br>수상물<br>
+	충청북도 대학생 프로그래밍 경진대회 - 장려상
 </div>
 <div align=center>
 <br>
