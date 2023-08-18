@@ -50,7 +50,8 @@
 		<img src = "https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white"/>
 	</a><br>
 	<br>수상물<br>
-	충청북도 대학생 프로그래밍 경진대회 - 장려상
+	충청북도 대학생 프로그래밍 경진대회 - 장려상<br>
+소개딩 시즌 5, 제 10회 SW보안개발 경진대회 - 행정안부장관상 우수상
 </div>
 <div align=center>
 <br>
