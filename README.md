@@ -7,7 +7,7 @@
 </div>
 <div align="center">
 	<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=git,cs,docker,django,java,mysql,py,spring,unity&perline=5" />
   </a>
 </div>
 <br>
@@ -15,11 +15,8 @@
 	<p>🛠 Tools 🛠</p>
 </div>
 <div align=center>
-	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
-	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
-	<br>
-	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
-	<img src="https://img.shields.io/badge/Jetbrain-181717?style=flat&logo=Jetbrain&logoColor=white" />
+	<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=androidstudio,eclipse,gcp,idea,pycharm,vscode,visualstudio&perline=5" />
 </div>
 <br>
 <div align=center>
