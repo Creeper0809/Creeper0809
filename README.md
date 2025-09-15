@@ -30,6 +30,7 @@
 	<br>작업물<br>
 	PCFG-Based Framework for Cracking Korean-Speaking Users’ Passwords - Yong Heon Lim, Jong Chan Seo, and Hae Young Lee<br>
 	<t>ㄴ 제주도 WISA 컨퍼런스 포스터 발표 참가
+	<br>
 	<br>수상물<br>
 	충청북도 대학생 프로그래밍 경진대회 - 장려상<br>
     소개딩 시즌 5, 제 10회 SW보안개발 경진대회 - 행정안전부장관상 우수상
