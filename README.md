@@ -50,5 +50,4 @@
 
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=creeper0809&layout=compact">
 
-	<br>
 </div>
