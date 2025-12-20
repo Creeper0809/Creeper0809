@@ -39,15 +39,20 @@
 <div align=center>
 <br>
   <h3>🏆 Baekjoon solved rank 🏆</h3>
-[![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=creeper0809)](https://solved.ac/creeper0809)
+  <a href="https://solved.ac/creeper0809">
+    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=creeper0809" alt="Solved.ac Profile" />
+  </a>
+
   <h3> CodeForce Tier</h3>
- [![CodeForces Profile](https://cf.leed.at?id=Vulpo)](https://codeforces.com/profile/vulpo)
+  <a href="https://codeforces.com/profile/vulpo">
+    <img src="https://cf.leed.at?id=Vulpo" alt="CodeForces Profile" />
+  </a>
 
- <h3> Atcoder Tier</h3>
-
- [![Atcoder Profile](https://atcoder-badge.kro.kr?id=vulpo)](https://atcoder.jp/users/vulpo)
+  <h3> Atcoder Tier</h3>
+  <a href="https://atcoder.jp/users/vulpo">
+    <img src="https://atcoder-badge.kro.kr?id=vulpo" alt="Atcoder Profile" />
+  </a>
   <p>프로젝트 사용언어</p>
-
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=creeper0809&layout=compact)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=creeper0809&layout=compact" alt="Top Languages" />
 
 </div>
