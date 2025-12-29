@@ -53,6 +53,6 @@
     <img src="https://atcoder-badge.kro.kr?id=vulpo" alt="Atcoder Profile" />
   </a>
   <p>프로젝트 사용언어</p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=creeper0809&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vulpo&layout=compact" alt="Top Languages" />
 
 </div>
